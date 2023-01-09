@@ -1,0 +1,15 @@
+C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\Plans\bin\Debug\net7.0\Plans.exe
+C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\Plans\bin\Debug\net7.0\Plans.deps.json
+C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\Plans\bin\Debug\net7.0\Plans.runtimeconfig.json
+C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\Plans\bin\Debug\net7.0\Plans.dll
+C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\Plans\bin\Debug\net7.0\Plans.pdb
+C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\Plans\obj\Debug\net7.0\Plans.csproj.AssemblyReference.cache
+C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\Plans\obj\Debug\net7.0\Plans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\Plans\obj\Debug\net7.0\Plans.AssemblyInfoInputs.cache
+C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\Plans\obj\Debug\net7.0\Plans.AssemblyInfo.cs
+C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\Plans\obj\Debug\net7.0\Plans.csproj.CoreCompileInputs.cache
+C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\Plans\obj\Debug\net7.0\Plans.dll
+C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\Plans\obj\Debug\net7.0\refint\Plans.dll
+C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\Plans\obj\Debug\net7.0\Plans.pdb
+C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\Plans\obj\Debug\net7.0\Plans.genruntimeconfig.cache
+C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\Plans\obj\Debug\net7.0\ref\Plans.dll
